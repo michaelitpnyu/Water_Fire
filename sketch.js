@@ -1,4 +1,4 @@
-var learning git hub;
+
 let video1;
 let video2;
 let video3;
